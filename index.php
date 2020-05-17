@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
   <title>사과농장에 인스타그램 불러오기</title>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <style> ➊
+  <style>
     body {
       background: #fafafa;
     }
@@ -32,7 +32,7 @@
 </head>
 <body>
 
-<div class="playon-instagarm"></div> ➋
+<div class="playon-instagarm"></div>
 
 <script>
 $(document).ready(function() {

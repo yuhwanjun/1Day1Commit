@@ -1,7 +1,7 @@
 <?php
 $post = array (
   'fields' => 'id,media_type,media_url,permalink,thumbnail_url,username,caption', 
-  'access_token' => 'IGQVJYbDFuRXl5ZAkJ6RjU5ZADBxbHRVal8wUXFVS2ZARMDBvQ21BWlVDSTA5SUZAVYTh3YWhyaFVOYVdmeHZAibFVIRDUxN3FMUmNlNElkTkxrbVdWX3dWUDI4RU1IU1JJMkdjNTdubGZATRTVpQjFCZAE9Ba0trcWowT1hmRXBj', 
+  'access_token' => 'IGQVJWVkVDQjRWQi1JQUx6bzFhdmprbzB6TDhhckNlXzhaa2R6d09MQWdsSEdCT1V2SlNoMXE0bjJKNl9ZAOV9abzV3cWl6dGdvclZAsOU1FS0pudTRmZA203Vk52N0hocWNUZAFpncjlxNkVHOWVnSEU5RGtnZAVdnLURScUdr', 
 );
 $url = "https://graph.instagram.com/17841418800508085/media?".http_build_query($post); 
 try {
